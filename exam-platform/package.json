@@ -1,0 +1,17 @@
+{
+  "name": "exam-platform",
+  "version": "1.0.0",
+  "description": "Платформа для тестирования",
+  "scripts": {
+    "build": "cd frontend && npm install && npm run build",
+    "start": "node backend/server-socket.js"
+  },
+  "engines": {
+    "node": "18.x"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.5.4",
+    "cors": "^2.8.5"
+  }
+}
