@@ -1,0 +1,96 @@
+[
+  {
+    "fullName": "кк",
+    "role": "student",
+    "id": 1778792772911,
+    "registeredAt": "2026-05-14T21:06:12.911Z"
+  },
+  {
+    "fullName": "а",
+    "role": "teacher",
+    "id": 1778792784924,
+    "registeredAt": "2026-05-14T21:06:24.924Z"
+  },
+  {
+    "fullName": "к",
+    "role": "student",
+    "id": 1778792824153,
+    "registeredAt": "2026-05-14T21:07:04.153Z"
+  },
+  {
+    "fullName": "ы",
+    "role": "teacher",
+    "id": 1778792963503,
+    "registeredAt": "2026-05-14T21:09:23.503Z"
+  },
+  {
+    "fullName": "л",
+    "role": "teacher",
+    "id": 1778793380310,
+    "registeredAt": "2026-05-14T21:16:20.310Z"
+  },
+  {
+    "fullName": "каринеа",
+    "role": "student",
+    "id": 1778793424947,
+    "registeredAt": "2026-05-14T21:17:04.947Z"
+  },
+  {
+    "fullName": "оо",
+    "role": "teacher",
+    "id": 1778794811810,
+    "registeredAt": "2026-05-14T21:40:11.810Z",
+    "groups": []
+  },
+  {
+    "fullName": "ап",
+    "role": "teacher",
+    "id": 1778795309926,
+    "registeredAt": "2026-05-14T21:48:29.926Z",
+    "groups": []
+  },
+  {
+    "fullName": "д",
+    "role": "teacher",
+    "id": 1778797053589,
+    "registeredAt": "2026-05-14T22:17:33.589Z",
+    "statistics": {
+      "totalTests": 0,
+      "averageScore": 0,
+      "bestScore": 0
+    }
+  },
+  {
+    "fullName": "но",
+    "role": "student",
+    "id": 1778797128642,
+    "registeredAt": "2026-05-14T22:18:48.642Z",
+    "statistics": {
+      "totalTests": 1,
+      "averageScore": 0,
+      "bestScore": 0
+    }
+  },
+  {
+    "fullName": "аня",
+    "role": "teacher",
+    "id": 1778948502276,
+    "registeredAt": "2026-05-16T16:21:42.276Z",
+    "statistics": {
+      "totalTests": 0,
+      "averageScore": 0,
+      "bestScore": 0
+    }
+  },
+  {
+    "fullName": "в",
+    "role": "teacher",
+    "id": 1778948708565,
+    "registeredAt": "2026-05-16T16:25:08.565Z",
+    "statistics": {
+      "totalTests": 0,
+      "averageScore": 0,
+      "bestScore": 0
+    }
+  }
+]

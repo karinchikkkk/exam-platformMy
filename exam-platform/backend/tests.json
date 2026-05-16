@@ -1,0 +1,66 @@
+[
+  {
+    "title": "в",
+    "createdBy": "а",
+    "timeLimit": 30,
+    "questions": [
+      {
+        "text": "в",
+        "options": [
+          "в",
+          "в",
+          "в",
+          "в"
+        ],
+        "correctIndex": 0
+      }
+    ],
+    "id": 1778792802259
+  },
+  {
+    "title": "л",
+    "createdBy": "л",
+    "timeLimit": 30,
+    "questions": [
+      {
+        "text": "лл",
+        "options": [
+          "л",
+          "б",
+          "б",
+          "б"
+        ],
+        "correctIndex": 1
+      }
+    ],
+    "id": 1778793397505
+  },
+  {
+    "title": "б",
+    "createdBy": "д",
+    "teacherId": 1778797053589,
+    "timeLimit": 30,
+    "questions": [
+      {
+        "text": "дддджж",
+        "type": "multiple",
+        "options": [
+          "ж",
+          "ж",
+          "ж",
+          "э",
+          "ж"
+        ],
+        "correctIndex": 0,
+        "correctAnswers": [
+          1
+        ],
+        "correctAnswer": "",
+        "points": 3
+      }
+    ],
+    "randomOrder": true,
+    "id": 1778797118023,
+    "createdAt": "2026-05-14T22:18:38.023Z"
+  }
+]
